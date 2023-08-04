@@ -1,0 +1,1 @@
+// This file uses sequelize and dotenv and connects the user to the port
