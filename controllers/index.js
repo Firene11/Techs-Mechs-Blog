@@ -1,0 +1,1 @@
+// routes api and home routes and expoorts them
