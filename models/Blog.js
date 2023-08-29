@@ -19,6 +19,10 @@ Blog.init(
       type: DataTypes.TEXT,
       allowNull: false,
     },
+    name: {
+        type: DataTypes.INTEGER,
+        allowNull: false,
+      },
     date: {
       type: DataTypes.DATE,
       allowNull: false,
